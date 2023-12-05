@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305893196481",
+    "project_id": "login-df5d7",
+    "storage_bucket": "login-df5d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305893196481:android:4687ee513f4fea153cca40",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnmcMLfWlin0gaVfw1siPyprxcZ8zwVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
